@@ -1,0 +1,138 @@
+
+.title {
+    background-color:#c8a2c8;
+    overflow: auto;
+    text-align:center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+
+.menu {
+    background-color:#f5cadc;
+    overflow: auto;
+}
+
+.menu ul {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.menu li {
+    display:inline-block;
+    text-align:center;
+}
+
+.menu li a {
+    display: inline-block;
+    height:auto;
+    width: 200px;
+    color:antiquewhite;
+    background-color: rgb(196, 68, 127);
+    padding: 10px;
+    margin: 4px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 7px;
+}
+
+.menu li a:hover {
+    background-color:rgb(114, 0, 63);
+}
+
+
+
+
+.main {
+    overflow:auto;
+    text-align: center;
+    background-color:#f7dfe9;
+    padding-top: 20px;
+    padding-bottom:20px;
+}
+
+
+
+.nai {
+    display: inline-block;
+    vertical-align: top;
+    width:calc(80%/3);
+    text-align: center;
+    margin:2%;
+    padding:10px;
+}
+
+
+
+.photos{
+    overflow:auto;
+    text-align: center;
+    background-color:#f7dfe9;
+    padding-top: 20px;
+    padding-bottom:20px;
+}
+
+
+
+.photos img {
+    border-style: solid;
+    border-width: 2px;
+    border-color:rgb(255, 196, 0);
+    border-radius:6px;
+    margin:2px;
+    object-fit:cover;
+    object-position:top;
+}
+
+
+
+
+.footer {
+    overflow:auto;
+    text-align: center;
+    background-color: #f7cbdd;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footer h2 {
+    color:#a41923;
+}
+
+
+.footer ul {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.footer li {
+    display:inline-block;
+    text-align:center;
+}
+
+.footer li a {
+    display: inline-block;
+    height:auto;
+    width: 200px;
+    color:antiquewhite;
+    background-color:rgb(196, 68, 127);
+    padding: 10px;
+    margin: 4px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 7px;
+}
+
+.footer li a:hover {
+    background-color:rgb(114, 0, 63);
+}
+
+
+h1 {
+    color:#a41923;
+    font-weight:bold;
+    font-size: 36px;
+}
